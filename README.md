@@ -21,3 +21,5 @@ The user must download the Inquirer package.
 In the terminal the user must type in 'node index.js' to initialize the questions. The user must then answer all of the questions and after answering all of the questions then the README file will be generated in the output folder.
 Contributors
 Micah Shumaker
+depoloyment
+https://micahshu.github.io/09-readMe-Generator/
